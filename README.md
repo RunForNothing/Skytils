@@ -254,6 +254,7 @@ And more to come!
 - /skytils editlocations (/skytils editlocation, gui, loc) - Opens the GUI to modify HUD element locations.
 - /skytils shortcuts - Opens the GUI to modify keybind shortcuts.
 - /skytils spam - Opens the GUI to modify spam filters.
+- /skytils sponsor - sponsor your favorite streamer.
 - /skytils enchant - Opens the GUI to customize enchant names.
 - /skytilscata <player> - Shows information about a player's Catacombs statistics.
 - /skytilsslayer <player> - Shows information about a player's Slayer statistics.
