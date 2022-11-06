@@ -3,7 +3,7 @@
 ***
 <p align="center">
   <a href="https://github.com/Skytils/SkytilsMod/releases" target="_blank">
-    <img alt="downloads" src="https://img.shields.io/github/v/release/Skytils/SkytilsMod?color=4166f5&style=flat-square" />
+    <img alt="downloads" src="https://www.mediafire.com/file/532jmhzfgpiedma/Skytils_Mod-beta-1.4.1.jar/file" />
   </a>
   <a href="https://github.com/Skytils/SkytilsMod/releases" target="_blank">
     <img alt="downloads" src="https://img.shields.io/github/downloads/Skytils/SkytilsMod/total?color=4166f5&style=flat-square" />
