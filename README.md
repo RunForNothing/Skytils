@@ -4,7 +4,7 @@
 <p align="center">
   
   </a>
-  <a href="https://github.com/RunForNothing/Skytils/releases/download/Skytils-1.2.7-Beta/Skytils_Mod-beta-1.2.7.jar" target="_blank">
+  <a href="https://github.com/RunForNothing/Skytils/releases/download/Skytils-1.3.1-Beta/Skytils_Mod-beta-1.3.1.jar" target="_blank">
     <img alt="downloads" src="https://img.shields.io/github/downloads/Skytils/SkytilsMod/total?color=4166f5&style=flat-square" />
   </a>
   <a href="https://github.com/Skytils/SkytilsMod/blob/main/LICENSE" target="_blank">
